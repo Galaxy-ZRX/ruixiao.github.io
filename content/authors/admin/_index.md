@@ -48,7 +48,7 @@ education:
       year: 2016 - 2020
 
 Skills:
-For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
