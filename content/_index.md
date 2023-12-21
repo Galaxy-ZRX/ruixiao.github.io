@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    demo: True
     content:
       title: Experience
       # Date format for experience
@@ -86,6 +87,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    demo: True
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -128,6 +130,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    demo: True
     id: posts
     content:
       title: Recent Posts
@@ -155,6 +158,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
+    demo: True
     id: projects
     content:
       title: Projects
@@ -182,6 +186,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    demo: True
     content:
       title: Gallery
       subtitle: ''
@@ -190,6 +195,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    demo: True
     id: featured
     content:
       title: Featured Publications
@@ -215,6 +221,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    demo: True
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -225,11 +232,13 @@ sections:
       columns: '2'
       view: compact
   - block: tag_cloud
+    demo: True
     content:
       title: Popular Topics
     design:
       columns: '2'
   - block: contact
+    demo: True
     id: contact
     content:
       title: Contact
