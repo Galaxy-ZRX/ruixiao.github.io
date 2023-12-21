@@ -87,7 +87,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
-    demo: True
+    demo: true
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -130,7 +130,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    demo: True
+    demo: true
     id: posts
     content:
       title: Recent Posts
@@ -158,7 +158,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    demo: True
+    demo: true
     id: projects
     content:
       title: Projects
@@ -186,7 +186,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
-    demo: True
+    demo: true
     content:
       title: Gallery
       subtitle: ''
@@ -195,7 +195,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    demo: True
+    demo: true
     id: featured
     content:
       title: Featured Publications
@@ -221,7 +221,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    demo: True
+    demo: true
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -232,13 +232,13 @@ sections:
       columns: '2'
       view: compact
   - block: tag_cloud
-    demo: True
+    demo: true
     content:
       title: Popular Topics
     design:
       columns: '2'
   - block: contact
-    demo: True
+    demo: true
     id: contact
     content:
       title: Contact
