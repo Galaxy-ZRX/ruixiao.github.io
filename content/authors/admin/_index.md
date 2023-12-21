@@ -74,8 +74,8 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: badminton
-        icon_pack: fas
+        icon: : badminton :
+        icon_pack: emoji
       - name: Photography
         description: ''
         percent: 100
